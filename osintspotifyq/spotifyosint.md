@@ -12,9 +12,9 @@ will be commenting on that using the dan the music man account
 username: dan-the-music-man
 
 ## to-do:
-add more red herring videos to the playlist
-make the website functional
-comment on the reddit post and say "wrong, heres the link to the actual best riffs of all time"
+1. add more red herring videos to the playlist
+2. make the website functional
+3. comment on the reddit post and say "wrong, heres the link to the actual best riffs of all time"
 
 password: yesiwantmusic
 
