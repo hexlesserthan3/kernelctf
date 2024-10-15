@@ -1,4 +1,6 @@
 # Don't get blown away.
+QUESTION: The bombs are far apart but the numbers should help. Right?
+
 PLEASE remove the print bombs part!!!! in the final python code. (code itself could be more obscure)
 
 ## placement of the incorrect numbers
