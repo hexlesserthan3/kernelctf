@@ -1,4 +1,4 @@
-# atari game
+# Don't drop the ball
 
 the first row of numbers has the required flag
 the bricks file has those numbers, need a way to make the bricks file inaccessible but still functional
