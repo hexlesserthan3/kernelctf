@@ -1,4 +1,4 @@
-# minesweeper question
+# Don't get blown away.
 PLEASE remove the print bombs part!!!! in the final python code. (code itself could be more obscure)
 
 ## placement of the incorrect numbers
