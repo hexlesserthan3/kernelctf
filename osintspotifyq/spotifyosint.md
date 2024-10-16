@@ -1,5 +1,5 @@
 # Sort through the Riff raff
-QUESTION: Dan the music man knows almost everything there is to know about music. Sometimes, his sites get corrupted. What an unfortune day for dear old Dan. He still really knows a lot, especially about riffs.
+QUESTION: Dan the music man knows almost everything there is to know about music. Sometimes, his sites get corrupted. What an unfortune day for dear old Dan. He still really knows a lot, especially about curating riffs.
 
 
 ## reddit post
